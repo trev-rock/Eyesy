@@ -23,3 +23,4 @@ Controls:
 
 Kirk Kaiser - https://github.com/burningion/critter-and-guitari-etc-programs
 Critter and Guitari - https://github.com/critterandguitari/ETC_Mother
+DudeTheDev https://forum.critterandguitari.com/t/eyesy-test-harness-for-pc/7059/6
