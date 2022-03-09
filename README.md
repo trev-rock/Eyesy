@@ -6,6 +6,7 @@ After purchasing an Eyesy I quickly realized that there is a lack of content on 
 There is a lot of crossover between how the ETC and Eyesy work and run Python Files
 
 **eyesy-test.py** 
+
 This file is a modified version of Kirk's file etc-test.py 
 In order to properly use it in your terminal type in "**python3 eyesy-test.py module_name.py**" where "module_name.py" is the module you want to test
 
@@ -19,5 +20,6 @@ Controls:
 
 
 **References:**
+
 Kirk Kaiser - https://github.com/burningion/critter-and-guitari-etc-programs
 Critter and Guitari - https://github.com/critterandguitari/ETC_Mother
