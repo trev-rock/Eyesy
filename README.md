@@ -6,7 +6,7 @@ After purchasing an Eyesy I quickly realized that there is a lack of content on 
 
 **eyesy-test.py** 
 
-This file is a modified version of Kirk's file etc-test.py in order to make it compartible with the Eyesy
+This file is based on Kirk's file etc-test.py in order to make it compartible with the Eyesy
 In order to properly use it in your terminal type in "**python3 eyesy-test.py module_name.py**" where "module_name.py" is the module you want to test
 If using a patch that is in a folder, insert the eyesy-test.py file into the folder of the file you want to test.
 
